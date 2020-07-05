@@ -1,0 +1,3 @@
+include ':invokeclient'
+include ':app'
+rootProject.name = "AidlSample"
